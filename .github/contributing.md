@@ -9,7 +9,7 @@ Thank you for considering contributing to `awesome-strapi`! We appreciate your h
 
 ## Guidelines
 
-- Ensure the link is relevant to Strapi and offers high value.
+- Ensure the link is relevant to **Strapi 5** and offers high value.
 - Use descriptive text for each link.
 - Follow the formatting in the main README for consistency.
 
